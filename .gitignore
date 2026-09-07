@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Build
+target/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+application-local.properties
+application-local.yml
+
+# Java
+*.class
